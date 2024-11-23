@@ -1,6 +1,3 @@
-Here's a clear and comprehensive **README.md** file for your project:
-
-```markdown
 # Falcon 7B Deployment and Troubleshooter
 
 ## Overview
