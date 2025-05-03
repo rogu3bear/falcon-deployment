@@ -36,7 +36,7 @@ This project provides a robust framework for deploying the **Falcon 7B** languag
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/falcon-7b-deployment.git
+git clone https://github.com/rogu3bear/falcon-7b-deployment.git
 cd falcon-7b-deployment
 ```
 
